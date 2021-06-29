@@ -1,6 +1,6 @@
 # Formula-1
 
-Data sourced from here: https://www.kaggle.com/cjgdev/formula-1-race-data-19502017?select=races.csv
+Data sourced from here: https://www.kaggle.com/rohanrao/formula-1-world-championship-1950-2020?select=driver_standings.csv
 
 SQL code is uploaded to create a database from the CSV files.
 F1 Table Creation.sql is used to create the empty tables.
