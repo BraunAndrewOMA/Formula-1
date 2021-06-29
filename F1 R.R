@@ -1,4 +1,4 @@
-data <- read.csv("C:/Users/Braun Family/Documents/CSU Global/MIS581 Capstone/F1 Data.csv")
+data <- read.csv("C:/Users/.../F1 Data.csv")
 
 install.packages("party")
 library(party)
